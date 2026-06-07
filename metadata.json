@@ -1,0 +1,6 @@
+{
+  "name": "Tempered Glass Atelier",
+  "description": "Premium physical glass fracturing simulation with real-time index refraction, spectral edge splits, and Hookean spring kinematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
